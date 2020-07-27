@@ -3,6 +3,10 @@ layout: page
 title: archive
 permalink: /archive/
 ---
+<head>
+    <link rel="icon" type="image/png" href="/favicon.png" />
+</head>
+
 {%- if site.posts.size > 0 -%}
   <ul>
     {%- for post in site.posts -%}

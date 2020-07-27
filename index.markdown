@@ -1,6 +1,9 @@
 ---
 layout: page
 ---
+<head>
+    <link rel="icon" type="image/png" href="/favicon.png" />
+</head>
 <a>welcome to the doorstep</a>
 <br>
 <a href='{{ site.url }}/home'>home</a>
