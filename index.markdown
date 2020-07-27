@@ -5,9 +5,6 @@ layout: page
     <link rel="icon" type="image/png" href="/favicon.png" />
 </head>
 
-
-
-<div class="nocursor">
    <a>welcome to the doorstep</a>
 <br>
 <a href='{{ site.url }}/home'>home</a>
@@ -19,7 +16,3 @@ layout: page
 <a href='{{ site.url }}/contact/'>contacts</a>
 <br>
 <a href='{{ site.url }}/faq/'>faq</a>
-</div>
-<style type="text/css">
-    .nocursor { cursor:none; }
-</style>
