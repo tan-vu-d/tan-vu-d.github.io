@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-<a href='{{ site.url }}/'>welcome to the doorstep</a>
+<a>welcome to the doorstep</a>
 <br>
 <a href='{{ site.url }}/home'>home</a>
 <br>
