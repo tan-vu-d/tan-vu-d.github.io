@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: post
 ---
 <a>welcome to the doorstep</a>
 <br>
