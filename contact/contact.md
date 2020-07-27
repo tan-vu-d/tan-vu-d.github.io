@@ -14,7 +14,7 @@ permalink: /contact/
     <a> : email </a>
   	<br>
     <input type="text" name="message">
-    <a>: email </a>
+    <a>: else </a>
     <br>
     <div>
     <button type="submit">send</button>
