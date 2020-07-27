@@ -18,3 +18,7 @@ permalink: /faq/
 -are there any requirements?
 <br>
 -no.
+<br>
+-why are the images so big?
+<br>
+-we want to look closely.
