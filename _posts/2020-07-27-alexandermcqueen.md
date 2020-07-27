@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "alexandermcqueenoysterdress"
 date:  2020-07-27
 categories: fashion
