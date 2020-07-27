@@ -3,6 +3,10 @@ layout: page
 title: faq
 permalink: /faq/
 ---
+<head>
+    <link rel="icon" type="image/png" href="/favicon.png" />
+</head>
+<p>
 -who are you?
 <br>
 -we are a group of princeton students interested in fashion, fashion design, and history.
@@ -22,3 +26,4 @@ permalink: /faq/
 -why are the images so big?
 <br>
 -we want to look closely.
+</p>
