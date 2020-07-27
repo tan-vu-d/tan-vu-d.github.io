@@ -1,7 +1,6 @@
 ---
 layout: page
-title: About
+title: home
 permalink: /home/
 ---
-hello
-welcome to the doorstep
+home is where the wardrobe is.
