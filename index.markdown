@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 ---
 <a>welcome to the doorstep</a>
 <br>
