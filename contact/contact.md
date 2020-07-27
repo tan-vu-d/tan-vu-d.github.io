@@ -7,14 +7,14 @@ permalink: /contact/
     <link rel="icon" type="image/png" href="/favicon.png" />
 </head>
 <form action="https://getform.io/f/02e59c89-72b5-454c-bb92-64df77dafd96" method="POST">
-	<a> name: </a>
     <input type="text" name="name">
+    <a>: name</a>
     <br>
-  	<a> email: </a>
     <input type="email" name="email">
+    <a> : email </a>
   	<br>
-    <a> else: </a>
     <input type="text" name="message">
+    <a>: email </a>
     <br>
     <div>
     <button type="submit">send</button>
