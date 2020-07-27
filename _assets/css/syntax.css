@@ -431,7 +431,7 @@
 /* Literal.Number.Integer.Long */
 
 .site-title::before {
-    content: faticon.png;
+    content: favicon.png;
     display: inline-block;
     position: relative;
     width: 5px;
