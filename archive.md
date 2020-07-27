@@ -1,22 +1,16 @@
 ---
-layout: default
+layout: page
 title: archive
 permalink: /archive/
-
 ---
-<h2>Archive</h2>
-<ul>
-{% for post in site.posts %}
-    {% unless post.next %}
-          <h3>{{ post.date | date: '%Y-%m' }}</h3>
-        {% else %}
-	      {% capture year %}{{ post.date | date: '%Y-%m' }}{% endcapture %}
-	      {% capture nyear %}{{ post.next.date | date: '%Y-%m' }}{% endcapture %}
-	      {% if year != nyear %}
-	        <h3>{{ post.date | date: '%Y-%m' }}</h3>
-	      {% endif %}
-	    {% endunless %}
+{%- if site.posts.size > 0 -%}
+  <ul>
+    {%- for post in site.posts -%}
+    <li>
+      {%- assign date_format = "%Y-%m-%d" -%}
+      [ {{ post.date | date: date_format }} ] <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+    </li>
+    {%- endfor -%}
+  </ul>
+{%- endif -%}
 
-	    <li><a href="{{site.url}}{{ post.url }}">{{ post.title }}</a></li>
-	  {% endfor %}
-</ul>
