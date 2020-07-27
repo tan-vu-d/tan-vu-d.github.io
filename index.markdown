@@ -1,7 +1,8 @@
 ---
 layout: home
 ---
-<h><a href='{{ site.url }}/'>welcome to the doorstep</a></h>
+<a href='{{ site.url }}/'>welcome to the doorstep</a>
+<br>
 <a href='{{ site.url }}/home'>home</a>
 <br>
 <a href='{{ site.url }}/archive/'>archive</a> 
