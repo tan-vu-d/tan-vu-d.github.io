@@ -15,3 +15,4 @@ layout: page
 <a href='{{ site.url }}/contact/'>contacts</a>
 <br>
 <a href='{{ site.url }}/faq/'>faq</a>
+* {cursor:none}
