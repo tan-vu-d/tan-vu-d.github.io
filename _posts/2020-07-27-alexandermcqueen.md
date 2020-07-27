@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "alexandermcqueenoysterdress"
-date:  2020-07-27 1:35:24 +0400 
+date:  2020-07-27
 categories: fashion
 ---
 <h>Alexander McQueen 2003 "Irere" Oyster/ Shipwreck Dress</h>
