@@ -18,4 +18,5 @@ While most other brands choose the central city of Paris, the duo presented the 
 <img src="https://assets.vogue.com/photos/5a5e2ab445b9987449c6b6ba/master/pass/a-f-vandevorst-fall-2004-rtw-00260h-Sieska-Goderis.jpg">
 <br>
 It is quite unfortunate that A.F. Vandervorst is scheduled to close down this August. Announcing the closure at the beginning of this year, An Vandevorst shared, "We came to the realization that we won’t be able to maintain the same level of creativity and focus on storytelling, rather than on product, and to work in a way that has always distinguished us. [...] We are creative people, rather than business people [...]."
+<br>
 Another casualty of consumerism.
