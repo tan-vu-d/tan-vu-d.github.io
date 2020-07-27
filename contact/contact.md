@@ -14,7 +14,7 @@ permalink: /contact/
     <input type="text" name="message">
     <br>
     <div>
-    <button class="unstyled-button" type="submit">send</button>
+    <button type="submit">send</button>
     </div>
 </form>
         
