@@ -2,7 +2,7 @@
 layout: post
 title:  "alexander mcqueen oyster dress"
 date:  2020-07-27
-categories: fashion
+categories: garments
 ---
 <h>Alexander McQueen 2003 "Irere" Oyster/ Shipwreck Dress</h>
 We know that this dress has at least two names. 

@@ -2,7 +2,7 @@
 layout: post
 title:  "jacquemus le petit chiquito"
 date:  2020-07-27
-categories: fashion
+categories: garments
 ---
 <h>Jacquemus-- A/W 2019 Le Petit Chiquito</h>
 
