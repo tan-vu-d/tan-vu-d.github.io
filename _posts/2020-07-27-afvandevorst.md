@@ -1,17 +1,19 @@
 ---
 layout: post
-title:  "alexandermcqueenoysterdress"
+title:  "af vandevorst"
 date:  2020-07-27
 categories: fashion
 ---
-<h>Alexander McQueen 2003 "Irere" Oyster/ Shipwreck Dress</h>
-We know that this dress has at least two names. 
-<br>
-"Shipwreck" derives from the theme of McQueen's other dresses in Irere which renders the idea of tragedy at sea. 
+<h>An Vandevorst and Filip Arickx at A.F. Vandevorst </h>
 
-<img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/alexander-mcqueen-2003-1581418811.jpg?crop=0.976xw:0.981xh;0.0119xw,0.0137xh&resize=480:*">
-
+An Vandevorst and Filip Arickx first met each other on their first day at Antwerp’s Royal Academy of Fine Arts in 1987. This fateful meeting would result in one of fashion's most iconic and distinctive duos. After working with designers from the Antwerp Six — An at Dries Van Noten and Filip at Dirk Bikkemberg — the duo established A.F. Vandevorst in 1997. 
+The brand quickly became an icon in the fashion circle for its conceptual and unconventional runway presentation. One Vandevorst collection that shows such creativity is its Fall 2004 collection. 
 <br>
-"Oyster" is a more intimate name to the dress itself which has the quality of seashells expressed through its construction from layers and layers of thin, sandy organza.
+While most other brands choose the central city of Paris, the duo presented the show in the suburbs on a very cold night in an open auditorium. The audience was forced to sit in sub-zero temperature with the auditorium door open for an hour, while sipping on cold champaign. The show finally started when a fleet of limos lined up at the auditorium entrance, and models in military-inspired dresses and coats started to walk in.
 <br>
-Earlier this year, the dress made an appearance on Kim Kardashian West at Vanity Fair's Oscar afterparty. It is known that this is one of the two Oyster dresses in existence, with the other one currently on display at the MET.
+<img src="https://drive.google.com/file/d/1neXBxM6QfK-mKR9w7HNFG53GHOp2PCUB/view?usp=sharing">
+<br>
+<img src="https://drive.google.com/file/d/1JSMV2D6UTXuTVObrHqwsZ7WD54f0JFlX/view?usp=sharing">
+<br>
+It is quite unfortunate that A.F. Vandervorst is scheduled to close down this August. Announcing the closure at the beginning of this year, An Vandevorst shared, "We came to the realization that we won’t be able to maintain the same level of creativity and focus on storytelling, rather than on product, and to work in a way that has always distinguished us. [...] We are creative people, rather than business people [...]."
+Another casualty of consumerism.

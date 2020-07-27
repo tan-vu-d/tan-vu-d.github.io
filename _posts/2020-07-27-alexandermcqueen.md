@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "alexandermcqueenoysterdress"
+title:  "alexander mcqueen oyster dress"
 date:  2020-07-27
 categories: fashion
 ---
