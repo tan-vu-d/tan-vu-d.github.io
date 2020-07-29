@@ -25,4 +25,8 @@ permalink: /contact/
     <button type="submit">send</button>
     </div>
 </form>
+<br>
+<br>
+<a href='{{ site.url }}'>visit us.</a>
+
         
