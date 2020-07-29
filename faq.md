@@ -3,9 +3,6 @@ layout: page
 title: faq
 permalink: /faq/
 ---
-<head>
-    <link rel="icon" type="image/png" href="/favicon.png" />
-</head>
 <p>
 -who are you?
 <br>

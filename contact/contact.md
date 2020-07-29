@@ -3,9 +3,6 @@ layout: page
 title: contact
 permalink: /contact/
 ---
-<head>
-    <link rel="icon" type="image/png" href="/favicon.png" />
-</head>
 <form action="https://getform.io/f/02e59c89-72b5-454c-bb92-64df77dafd96" method="POST">
     <input type="text" name="name">
     <a>: name</a>
