@@ -1,7 +1,7 @@
 ---
 layout: page
 title: contact
-permalink: /contact/
+permalink: /contacts/
 ---
 <head>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
