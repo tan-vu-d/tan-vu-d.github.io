@@ -17,6 +17,6 @@ layout: page
 <br>
 <a href='{{ site.url }}/about/'>about </a>
 <br>
-<a href='{{ site.url }}/contact/'>contacts</a>
+<a href='{{ site.url }}/contacts/'>contacts</a>
 <br>
 <a href='{{ site.url }}/faq/'>faq</a>

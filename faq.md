@@ -23,6 +23,7 @@ permalink: /faq/
 -can i join?
 <br>
 -yes. 
+<a> contact us</a><a href='{{ site.url }}/contacts/'>here.</a>
 <br>
 -are there any requirements?
 <br>
