@@ -27,6 +27,6 @@ permalink: /contact/
 </form>
 <br>
 <br>
-<a href='{{ site.url }}'>visit us.</a>
+<a href='https://sketchxxhouse.com/'>visit us.</a>
 
         
