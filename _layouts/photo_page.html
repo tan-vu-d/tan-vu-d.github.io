@@ -6,27 +6,18 @@ layout: page
 <style>
 img {
     max-width: 100%;
+    max-height: 100%;
 }
 
-.portrait {
-    height: 80px;
-    width: 30px;
-}
-
-.landscape {
-    height: 30px;
-    width: 80px;
-}
-
-.square {
-    width: 750px;
+.thumbnail {
+    width:  20vw;
 }
 </style>
 
 <h1>{{ page.title }}</h1>
 {% for image in site.static_files %}
     {% if image.path contains 'images/photos' %}
-        <img class="square" src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+        <img class="thumbnail" src="{{ site.baseurl }}{{ image.path }}" alt="image" />
     {% endif %}
 {% endfor %}
 
