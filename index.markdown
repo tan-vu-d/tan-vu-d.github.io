@@ -10,7 +10,7 @@ layout: page
 <br>
 <a href='{{ site.url }}/archive/'>archive</a>
 <br>
-<a href='{{ site.url }}/moodboard/'>moodboard</a> 
+<a href='{{ site.url }}/photoboard/'>photoboard</a> 
 <br>
 <a href='{{ site.url }}/about/'>about</a>
 <br>
