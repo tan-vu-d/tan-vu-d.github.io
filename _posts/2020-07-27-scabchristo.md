@@ -12,6 +12,8 @@ Under the mentorship of Comme des Garcons's Rei Kawakubo, Jun and Undercover bec
 
 An one-of-one item from this collection that has recently surfaced is a pair of Visvim Christo sandals. 
 
+<br>
 <img src="https://cdn.shopify.com/s/files/1/0005/4211/3839/products/ucvisvimchristoscab-1site_3648x.jpg?v=1573363121">
+<br>
 
 Jun Takahashi reimagined Visvim’s classic and functional sandals by reconstructing it with individual patches stitched over each other to resemble human scabs. Detailed throughout the sandal are prints and hexagon studs along the side, plus black pointed studs adorning the straps.

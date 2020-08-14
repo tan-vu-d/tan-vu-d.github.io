@@ -9,8 +9,9 @@ categories: garments
 We know that this dress has at least two names. 
 
 "Shipwreck" derives from the theme of McQueen's other dresses in Irere which renders the idea of tragedy at sea. 
-
+<br>
 <img src="https://assets.vogue.com/photos/5e3a3baa10ca7a0008c8a6e2/master/pass/alexander-mcqueen-spring-2003-ready-to-wear-00180h-leticia-birkheuer.jpg">
+<br>
 
 
 "Oyster" is a more intimate name to the dress itself which has the quality of seashells expressed through its construction from layers and layers of thin, sandy organza.

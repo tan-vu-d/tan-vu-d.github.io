@@ -13,10 +13,11 @@ One Vandevorst collection that shows such creativity is its Fall 2004 collection
 
 While most other brands choose the central city of Paris, the duo presented the show in the suburbs on a very cold night in an open auditorium. The audience was forced to sit in sub-zero temperature with the auditorium door open for an hour, while sipping on cold champaign. The show finally started when a fleet of limos lined up at the auditorium entrance, and models in military-inspired dresses and coats started to walk in.
 
+<br>
 <img src="https://assets.vogue.com/photos/5a5e2ab37d64d87862f36469/master/pass/a-f-vandevorst-fall-2004-rtw-00210h-Sonja-Hulsman.jpg">
-
+<br>
 <img src="https://assets.vogue.com/photos/5a5e2ab445b9987449c6b6ba/master/pass/a-f-vandevorst-fall-2004-rtw-00260h-Sieska-Goderis.jpg">
-
+<br>
 It is quite unfortunate that A.F. Vandervorst is scheduled to close down this August. Announcing the closure at the beginning of this year, An Vandevorst shared, "We came to the realization that we won’t be able to maintain the same level of creativity and focus on storytelling, rather than on product, and to work in a way that has always distinguished us. [...] We are creative people, rather than business people [...]."
 
 Another casualty of consumerism.
