@@ -7,7 +7,7 @@ categories: garments
 <h1>Elsa Schiaparelli 1938 Skeleton Dress</h1>
 
 To her contemporaries, this evening dress was outrageous-- almost an offensive force against the time's idea of beauty. 
-
+<br>
 In collaboration with Dali Salvador, Schia modified an otherwise elegant, formal dress by using a sinister black silk crepe as the main material and added representations of human bones throughout the garment. The dress was a perfect example of Schia's creativity and rebelliousness.
 <br>
 <img src="https://i.pinimg.com/originals/f2/2c/67/f22c672fdb37d912fd3084e62d582e0d.jpg">
