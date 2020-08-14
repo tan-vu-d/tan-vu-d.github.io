@@ -3,33 +3,65 @@ layout: page
 ---
 
 
+<head>
 <style>
-img {
-    max-width: 100%;
-    max-height: 100%;
+* {
+  box-sizing: border-box;
 }
 
-.thumbnail {
-    width:  19.2vw;
+.row {
+  display: flex;
 }
 
+.column {
+  flex: 20%;
+  padding: 5px;
+}
 @media only screen and (max-width: 1090px) {
-    img {
-    max-width: 100%;
-    max-height: 100%;
+    * {
+  box-sizing: border-box;
 }
 
-.thumbnail {
-    width:  40vw;
-
+.row {
+  display: flex;
 }
+
+.column {
+  flex: 50%;
+  padding: 5px;
+}
+
 }
 </style>
+</head>
 
 <h1>{{ page.title }}</h1>
+
+{% assign photo_n = 1 %}
+
+
 {% for image in site.static_files %}
     {% if image.path contains 'images/photos' %}
-        <img class="thumbnail" src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+        {% if {{photo_n | modulo:5}}==1%}
+            <div class="row">
+                <div class="column">
+                    <img class="thumbnail" src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+                </div>
+
+        {% if {{photo_n | modulo:5}}==0%}
+                <div class="column">
+                    <img class="thumbnail" src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+                </div>
+            </div>
+        
+        {% else %}
+                <div class="column">
+                    <img class="thumbnail" src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+                </div>
+        {% endif %}
     {% endif %}
-{% endfor %}
+{% endfor %}  
+
+
+
 
