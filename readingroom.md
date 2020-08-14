@@ -1,7 +1,7 @@
 ---
 layout: page
-title: reading room
-permalink: /readingroom/
+title: archive
+permalink: /archive/
 ---
 
 <h>archive</h>
