@@ -15,6 +15,6 @@
 </head>
 
 
-{{ content }}
+{{ content | remove: '<p>' | remove: '</p>' }}
 
 </html>
