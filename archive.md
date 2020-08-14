@@ -4,7 +4,6 @@ title: archive
 permalink: /archive/
 ---
 
-<h>archive</h>
 
 {%- if site.posts.size > 0 -%}
   <ul>
