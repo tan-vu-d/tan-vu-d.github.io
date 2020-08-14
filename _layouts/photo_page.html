@@ -48,42 +48,42 @@ layout: page
 
 <h1>{{ page.title }}</h1>
 
+<div class="column">
 {% for image in site.static_files %}
-    <div class="column">
         {% if image.path contains 'images/column1' %}
             <img src="{{ site.baseurl }}{{ image.path }}" alt="image" style="width:100%"/>
         {% endif %}
-    </div>  
 {% endfor %}
+</div>
 
+<div class="column">
 {% for image in site.static_files %}
-    <div class="column">
         {% if image.path contains 'images/column2' %}
             <img src="{{ site.baseurl }}{{ image.path }}" alt="image" style="width:100%"/>
         {% endif %}
-    </div>  
 {% endfor %}
+</div>
 
+<div class="column">
 {% for image in site.static_files %}
-    <div class="column">
         {% if image.path contains 'images/column3' %}
             <img src="{{ site.baseurl }}{{ image.path }}" alt="image" style="width:100%"/>
         {% endif %}
-    </div>  
 {% endfor %}
+</div>
 
+<div class="column">
 {% for image in site.static_files %}
-    <div class="column">
         {% if image.path contains 'images/column4' %}
             <img src="{{ site.baseurl }}{{ image.path }}" alt="image" style="width:100%"/>
         {% endif %}
-    </div>  
 {% endfor %}
+</div>
 
+<div class="column">
 {% for image in site.static_files %}
-    <div class="column">
         {% if image.path contains 'images/column5' %}
             <img src="{{ site.baseurl }}{{ image.path }}" alt="image" style="width:100%"/>
         {% endif %}
-    </div>  
 {% endfor %}
+</div>
