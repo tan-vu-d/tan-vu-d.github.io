@@ -4,7 +4,7 @@ title:  "scab visvim christo"
 date:  2020-07-27
 categories: garments
 ---
-<h>Undercover Spring 2003 “Scab” Visvim Christo</h>
+<h1>Undercover Spring 2003 “Scab” Visvim Christo</h1>
 Undercover is originally a cult brand from Japan founded in 1993 by Jun Takahashi. 
 <br>
 Under the mentorship of Comme des Garcons's Rei Kawakubo, Jun and Undercover became famous in Japan. However, it was not until late 2002-- when Undercover's Spring 2003 Collection "Scab" was shown in Paris-- that the brand was globally recognized. 

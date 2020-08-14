@@ -4,7 +4,7 @@ title:  "craig green"
 date:  2020-07-27
 categories: fashion
 ---
-<h>Craig Green F/W 2013</h>
+<h1>Craig Green F/W 2013</h1>
 Because of its recency, Craig Green's Fall/Winter 2013 collection is just yet to be considered "history"; however, as time goes on, it is destined to become part of fashion history for its creativity in concepts, material uses, and presentation.
 <br>
 Inspired by the idea of “shadows and reflections,” Green essentially divides the collection into two parts: "the body" and "the shadow." 

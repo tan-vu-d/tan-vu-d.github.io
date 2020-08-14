@@ -4,7 +4,7 @@ title:  "af vandevorst"
 date:  2020-07-27
 categories: fashion
 ---
-<h>An Vandevorst and Filip Arickx at A.F. Vandevorst </h>
+<h1>An Vandevorst and Filip Arickx at A.F. Vandevorst </h1>
 
 An Vandevorst and Filip Arickx first met each other on their first day at Antwerp’s Royal Academy of Fine Arts in 1987. This fateful meeting would result in one of fashion's most iconic and distinctive duos. After working with designers from the Antwerp Six — An at Dries Van Noten and Filip at Dirk Bikkemberg — the duo established A.F. Vandevorst in 1997. 
 The brand quickly became an icon in the fashion circle for its conceptual and unconventional runway presentation. 

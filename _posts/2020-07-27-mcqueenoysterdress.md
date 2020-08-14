@@ -4,7 +4,7 @@ title:  "alexander mcqueen oyster dress"
 date:  2020-07-27
 categories: garments
 ---
-<h>Alexander McQueen 2003 "Irere" Oyster/ Shipwreck Dress</h>
+<h1>Alexander McQueen 2003 "Irere" Oyster/ Shipwreck Dress</h1>
 We know that this dress has at least two names. 
 <br>
 "Shipwreck" derives from the theme of McQueen's other dresses in Irere which renders the idea of tragedy at sea. 

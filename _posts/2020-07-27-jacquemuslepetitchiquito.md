@@ -4,7 +4,7 @@ title:  "jacquemus le petit chiquito"
 date:  2020-07-27
 categories: garments
 ---
-<h>Jacquemus-- A/W 2019 Le Petit Chiquito</h>
+<h1>Jacquemus-- A/W 2019 Le Petit Chiquito</h1>
 
 The Jacquemus "Le Petit Chiquito" is one of the more controversial and dividing accessories in recent fashion. The not-bag bag, while hated by many, is acclaimed as an unconventional, rebellious item. The conservative idea of a bag is that it should be able to carry something. A bag is to be defined by its functionality. This idea is expressed mostly through the volume, as seen in from the Birkin, to the luggage bag, to the everyday tote. Le Petit Chiquito is special because it challenges this idea. 
 <br>

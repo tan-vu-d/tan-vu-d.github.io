@@ -4,7 +4,7 @@ title:  "elsa schiaparelli skeleton dress"
 date:  2020-07-28
 categories: garments
 ---
-<h>Elsa Schiaparelli 1938 Skeleton Dress</h>
+<h1>Elsa Schiaparelli 1938 Skeleton Dress</h1>
 <br>
 To her contemporaries, this evening dress was outrageous-- almost an offensive force against the time's idea of beauty. 
 <br>
