@@ -6,7 +6,7 @@ layout: page
 <br>
 <a href='{{ site.url }}/home/'>home</a>
 <br>
-<a href='{{ site.url }}/annoucement/'>announcement</a>
+<a href='{{ site.url }}/announcement/'>announcement</a>
 <br>
 <a href='{{ site.url }}/archive/'>archive</a>
 <br>

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: annoucement
-permalink: /annoucement/
+title: announcement
+permalink: /announcement/
 ---
 <ul>
 <li>
