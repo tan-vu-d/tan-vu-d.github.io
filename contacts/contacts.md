@@ -18,6 +18,8 @@ permalink: /contact/
     <button type="submit">send</button>
     </div>
 </form>
-<a href='https://sketchxxhouse.com/'>visit us.</a>
+<a>visit us&nbsp;</a><a href='https://sketchxxhouse.com/'> here.</a>
+<br>
+<a>join our groupchat&nbsp;</a><a href='https://groupme.com/join_group/61128984/ru483gcK'>here.</a>
 
         
