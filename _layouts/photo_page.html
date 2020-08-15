@@ -7,83 +7,87 @@ layout: page
   box-sizing: border-box;
 }
 
-.column {
-  float: left;
-  width: 20%;
-  padding: 10px;
+body {
+  margin: 0;
+  font-family: Arial;
 }
 
-.column img {
-  margin-top: 12px;
+.header {
+  text-align: center;
+  padding: 32px;
 }
 
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-@media only screen and (max-width: 1090px) {
-* {
-  box-sizing: border-box;
+.row {
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE10 */
+  flex-wrap: wrap;
+  padding: 0 4px;
 }
 
 .column {
-  float: left;
-  width: 50%;
-  padding: 10px;
+  -ms-flex: 20%; /* IE10 */
+  flex: 20%;
+  max-width: 20%;
+  padding: 0 4px;
 }
 
 .column img {
-  margin-top: 12px;
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
 }
 
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
+
+@media screen and (max-width: 1090px) {
+  .column {
+    -ms-flex: 50%;
+    flex: 50%;
+    max-width: 50%;
+  }
 }
 </style>
 
 <h1>{{ page.title }}</h1>
 
-<div class="column">
-{% for image in site.static_files %}
-        {% if image.path contains 'images/column1' %}
-            <img src="{{ site.baseurl }}{{ image.path }}" alt="image" style="width:100%"/>
-        {% endif %}
-{% endfor %}
-</div>
+<div class="row"> 
+  <div class="column">
+  {% for image in site.static_files %}
+          {% if image.path contains 'images/column1' %}
+              <img src="{{ site.baseurl }}{{ image.path }}" alt="image" style="width:100%"/>
+          {% endif %}
+  {% endfor %}
+  </div>
 
-<div class="column">
-{% for image in site.static_files %}
-        {% if image.path contains 'images/column2' %}
-            <img src="{{ site.baseurl }}{{ image.path }}" alt="image" style="width:100%"/>
-        {% endif %}
-{% endfor %}
-</div>
+  <div class="column">
+  {% for image in site.static_files %}
+          {% if image.path contains 'images/column2' %}
+              <img src="{{ site.baseurl }}{{ image.path }}" alt="image" style="width:100%"/>
+          {% endif %}
+  {% endfor %}
+  </div>
 
-<div class="column">
-{% for image in site.static_files %}
-        {% if image.path contains 'images/column3' %}
-            <img src="{{ site.baseurl }}{{ image.path }}" alt="image" style="width:100%"/>
-        {% endif %}
-{% endfor %}
-</div>
+  <div class="column">
+  {% for image in site.static_files %}
+          {% if image.path contains 'images/column3' %}
+              <img src="{{ site.baseurl }}{{ image.path }}" alt="image" style="width:100%"/>
+          {% endif %}
+  {% endfor %}
+  </div>
 
-<div class="column">
-{% for image in site.static_files %}
-        {% if image.path contains 'images/column4' %}
-            <img src="{{ site.baseurl }}{{ image.path }}" alt="image" style="width:100%"/>
-        {% endif %}
-{% endfor %}
-</div>
+  <div class="column">
+  {% for image in site.static_files %}
+          {% if image.path contains 'images/column4' %}
+              <img src="{{ site.baseurl }}{{ image.path }}" alt="image" style="width:100%"/>
+          {% endif %}
+  {% endfor %}
+  </div>
 
-<div class="column">
-{% for image in site.static_files %}
-        {% if image.path contains 'images/column5' %}
-            <img src="{{ site.baseurl }}{{ image.path }}" alt="image" style="width:100%"/>
-        {% endif %}
-{% endfor %}
+  <div class="column">
+  {% for image in site.static_files %}
+          {% if image.path contains 'images/column5' %}
+              <img src="{{ site.baseurl }}{{ image.path }}" alt="image" style="width:100%"/>
+          {% endif %}
+  {% endfor %}
+  </div>
 </div>

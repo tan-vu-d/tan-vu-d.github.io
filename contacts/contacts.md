@@ -18,8 +18,6 @@ permalink: /contact/
     <button type="submit">send</button>
     </div>
 </form>
-<br>
-<br>
 <a href='https://sketchxxhouse.com/'>visit us.</a>
 
         

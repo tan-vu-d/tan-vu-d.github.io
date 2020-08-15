@@ -1,5 +1,5 @@
 ---
 layout: photo_page
-title: photo board
+title: photoboard
 permalink: /photoboard/
 ---
