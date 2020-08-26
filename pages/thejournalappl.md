@@ -3,7 +3,7 @@ layout: page
 title: application
 permalink: /application/
 ---
-<a>press control+a or command+a to see the application</a>
+<a>press control+a or command+a to see this application on your pc</a>
 <div style="color:white">
 <form
   action="https://formspree.io/xvownedl"
