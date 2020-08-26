@@ -3,8 +3,7 @@ layout: page
 title: application
 permalink: /application/
 ---
-
-<a>if you are not seeing anything, try finding something to see.<a>
+<a>press control+a or command+a to see the application</a>
 <div style="color:white">
 <form
   action="https://formspree.io/xvownedl"
