@@ -3,7 +3,7 @@ layout: page
 title: application
 permalink: /application_vis/
 ---
-<div style="color:white">
+<div>
 <form
   action="https://formspree.io/xvownedl"
   method="POST"
