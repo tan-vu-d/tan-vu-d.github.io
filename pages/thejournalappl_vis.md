@@ -38,7 +38,7 @@ permalink: /application_vis/
 <div>
 <a>please schedule an interview</a> 
 <a href='https://calendly.com/tdv-1/30min'>here</a>
-<a> on your soonest avaiable date.</a>
+<a> on your soonest available date.</a>
 </div>
 
 
