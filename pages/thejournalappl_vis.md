@@ -1,7 +1,7 @@
 ---
 layout: page
 title: application
-permalink: /application_vis/
+permalink: /application_vis_closed/
 ---
 <div>
 <form

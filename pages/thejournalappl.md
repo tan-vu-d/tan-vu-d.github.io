@@ -1,7 +1,7 @@
 ---
 layout: page
 title: application
-permalink: /application/
+permalink: /application_closed/
 ---
 <a>press control+a or command+a to see this application on your pc</a>
 <div style="color:white">
